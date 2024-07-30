@@ -1,0 +1,22 @@
+# Blender 4.1.1 MTL File: 'mapa2.blend'
+# www.blender.org
+
+newmtl mantel
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.897638
+illum 1
+map_Kd C:/Users/lino_/Desktop/Modelos_Blender/texturas/mantel-t.png
+
+newmtl mesa
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/lino_/Desktop/Modelos_Blender/texturas/mesa-t.png

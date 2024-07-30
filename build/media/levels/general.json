@@ -1,0 +1,7 @@
+{
+    "jugador": {
+        "nivel_actual": "level_0",
+        "nivel_anterior": "level_0",
+        "nivel_siguiente": 0
+    }
+}
